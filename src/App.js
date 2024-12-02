@@ -7,6 +7,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Demo for Azure website</p>
+        <button
+          style={{
+            backgroundColor: "#05a332",
+            padding: "15px",
+            width: "20%",
+            borderRadius: "15px",
+          }}
+        >
+          Get Info
+        </button>
         <a
           className="App-link"
           href="https://reactjs.org"
