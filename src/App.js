@@ -15,7 +15,7 @@ function App() {
             borderRadius: "15px",
           }}
         >
-          Get Info
+          Get Data Info
         </button>
         <a
           className="App-link"
